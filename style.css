@@ -1,0 +1,59 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 80% arial;
+	line-height: 2;
+	color: #3F3F3F; 
+	background: #98AEB9 url(assets/rocks.jpg) no-repeat top right; 
+	margin: 85px; 
+	padding: 15px;
+  text-align: center;
+	}
+h1 { 
+	font: italic normal 4em Arial;
+	letter-spacing: 15px; 
+	margin-bottom: 0; 
+	color: #B6a496;
+  text-align: center;
+  background: #3f3f3f;
+  margin: 85px; 
+	padding: 15px;
+	}
+
+h2 {
+  font-size: 3em;
+  background: #c9661e
+}
+
+h3 { 
+	font: normal 2.1em arial black;
+	letter-spacing: 20px; 
+	margin-bottom: 5%; 
+	color: #114a2f;
+  text-align: center;
+  background: #b6a496
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #c9661e;
+  font: 1.1em arial;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #fff;
+  font: 1.1em arial;
+	}
+.page-wrapper { 
+	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat bottom left;  
+	position: relative;
+	}
+.sidebar {
+  position: relative;
+}
+ul {
+  list-style-type: none;
+}
